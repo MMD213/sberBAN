@@ -20,7 +20,7 @@
                   <Button fx:id="Exit" layoutX="56.0" layoutY="314.0" mnemonicParsing="false" onAction="#Lexit" prefHeight="27.0" prefWidth="235.0" style="-fx-background-color: #ed2f46; -fx-border-color: black;" text="Выйти" />
                   <Button fx:id="Enter" layoutX="56.0" layoutY="278.0" mnemonicParsing="false" onAction="#Lenter" prefHeight="27.0" prefWidth="235.0" style="-fx-background-color: #2fed4f; -fx-border-color: black;" text="Войти" />
                   <TextField fx:id="Login" layoutX="56.0" layoutY="176.0" prefHeight="25.0" prefWidth="235.0" />
-                  <Label contentDisplay="CENTER" layoutX="1.0" layoutY="25.0" prefHeight="75.0" prefWidth="347.0" text="Добро пожаловать в банк &quot;Казахстан&quot;" textAlignment="CENTER" textFill="RED" textOverrun="CLIP" wrapText="true">
+                  <Label contentDisplay="CENTER" layoutX="1.0" layoutY="25.0" prefHeight="75.0" prefWidth="347.0" text="Добро пожаловать в банк &quot;Казахстан&quot;" textAlignment="CENTER" textOverrun="CLIP" wrapText="true">
                      <font>
                         <Font size="24.0" />
                      </font>
